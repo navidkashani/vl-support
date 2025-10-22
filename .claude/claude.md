@@ -6,6 +6,16 @@ This Claude Code project is designed to streamline and accelerate support operat
 
 This project provides automated workflows, templates, and knowledge management tools to help the VeronaLabs support team efficiently handle customer inquiries, bug reports, feature requests, and general support tickets.
 
+## ⚠️ CRITICAL SAFETY RULE
+
+**NEVER SEND EMAILS TO CUSTOMERS DIRECTLY. ALWAYS CREATE NOTES.**
+
+All FreeScout integrations and response generation commands will create notes for the support team to review, edit, and send manually. This ensures:
+- Full control over customer communications
+- Responses can be reviewed before sending
+- No accidental or inappropriate messages reach customers
+- Team can add personalization and context
+
 ## Available Slash Commands
 
 ### FreeScout Integration

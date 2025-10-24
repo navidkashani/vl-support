@@ -70,7 +70,7 @@ function httpsPost(url, headers, body) {
 }
 
 // Create a note in FreeScout conversation
-async function createNote(apiUrl, apiKey, conversationId, noteText, userId = 1) {
+async function createNote(apiUrl, apiKey, conversationId, noteText, userId = 35) {
     const url = `${apiUrl}/conversations/${conversationId}/threads`;
 
     const headers = {

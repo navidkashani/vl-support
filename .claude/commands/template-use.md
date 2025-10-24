@@ -12,14 +12,16 @@ Choose a template type:
 
 1. **first-response** - Initial response acknowledging the ticket
 2. **setup-guide** - General plugin setup instructions
-3. **troubleshooting-request** - Ask user for more debugging information
-4. **bug-confirmed** - Acknowledge a confirmed bug
-5. **feature-request-response** - Response to feature requests
-6. **resolved-closing** - Closing message when issue is resolved
-7. **escalation** - Escalating to development team
-8. **compatibility-issue** - Known compatibility issue response
-9. **documentation-link** - Point user to documentation
-10. **follow-up** - Following up on previous ticket
+3. **license-activation-wp-statistics** - Guide for activating WP Statistics license
+4. **license-activation-wp-sms** - Guide for activating WP SMS license
+5. **troubleshooting-request** - Ask user for more debugging information
+6. **bug-confirmed** - Acknowledge a confirmed bug
+7. **feature-request-response** - Response to feature requests
+8. **resolved-closing** - Closing message when issue is resolved
+9. **escalation** - Escalating to development team
+10. **compatibility-issue** - Known compatibility issue response
+11. **documentation-link** - Point user to documentation
+12. **follow-up** - Following up on previous ticket
 
 ## Input
 

@@ -54,6 +54,8 @@ All FreeScout integrations and response generation commands will create notes fo
 **Available Templates:**
 - `first-response` - Initial ticket acknowledgment
 - `setup-guide` - Complete setup instructions
+- `license-activation-wp-statistics` - Guide for activating WP Statistics license
+- `license-activation-wp-sms` - Guide for activating WP SMS license
 - `troubleshooting-request` - Request debugging information
 - `bug-confirmed` - Acknowledge confirmed bugs
 - `feature-request-response` - Respond to feature requests

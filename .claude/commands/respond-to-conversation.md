@@ -31,12 +31,14 @@ Example formats accepted:
    - Search knowledge base for similar issues
 
 3. **Generate Response Draft (HTML Format)**
-   - Professional, ready-to-send response in HTML
-   - Personalized with customer's name
-   - Addresses their specific issue
-   - Includes step-by-step solutions if applicable
-   - References relevant documentation
-   - Matches VeronaLabs support tone
+   - **IMPORTANT**: Read and follow `docs/customer-communication-guidelines.md` for ALL responses
+   - Keep responses SHORT and CONCISE (avoid long lists and overwhelming details)
+   - Use natural, conversational tone (warm, friendly, empathetic)
+   - Match customer's energy and emotion level
+   - Personalized with customer's first name only
+   - Short paragraphs (2-3 sentences max)
+   - Use lists ONLY when absolutely necessary (max 3-4 items)
+   - Always end with "Best regards," (no name or team signature after)
    - **Formatted in HTML (not Markdown) for FreeScout compatibility**
 
 4. **Create a Note in FreeScout**

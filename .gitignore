@@ -22,6 +22,7 @@ Thumbs.db
 data/conversations/
 data/single-conversations/
 data/*.json
+data/*.html
 
 # API keys and secrets
 *secret*
